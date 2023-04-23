@@ -15,7 +15,7 @@
     "format:write": "npx prettier --write ./"
   },
   "dependencies": {
-    "@astrojs/mdx": "^0.18.2",
+    "@astrojs/mdx": "^0.19.0",
     "@astrojs/tailwind": "^3.1.1",
     "astro": "^2.1.8",
     "tailwindcss": "^3.3.1"
