@@ -35,7 +35,7 @@
     "postcss": "^8.4.23",
     "postcss-import": "^15.1.0",
     "prettier": "^2.8.8",
-    "prettier-plugin-astro": "^0.8.0",
+    "prettier-plugin-astro": "^0.9.0",
     "prettier-plugin-tailwindcss": "^0.2.8"
   }
 }
